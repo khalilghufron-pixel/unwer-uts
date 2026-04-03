@@ -1,0 +1,9 @@
+!!!NOTE!!!!
+Pastikan sudah melakukan npm install sebelum mengerjakan dan test apakah aplikasi sudah berjalan
+
+
+1. Pastikan sudah melakukan clone project dari soal 6
+2. Buat lah route untuk 5 Page
+3. Buat lah Navbar untuk pergi ke setiap halaman
+4. Pastikan page berpindah setiap navbar di klik
+5. Masukan project ke github kalian dan masukan link ke file Answer-7.txt di folder Answer pada directory Answer(7-10)

@@ -1,0 +1,4 @@
+1. Buatlah sebuah dokumen dan berikan title Mid Test
+2. Buatlah sebuah teks judul (bebas) dan 3 paragraph loremipsum
+3. Screenshoot hasil web dan beri nama Answer-3
+4. masukan ke folder Answer pada directory (3-5)WebBasic

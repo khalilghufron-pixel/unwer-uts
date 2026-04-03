@@ -1,0 +1,5 @@
+1. Buatlah sajian makan Telur dan Sosis
+2. Buatlah semirip mungkin
+3. Screenshoot hasil pada web 
+4. Berinama Answer-5
+5. Masukan ke folder Answer pada directory (3-5)WebBasic

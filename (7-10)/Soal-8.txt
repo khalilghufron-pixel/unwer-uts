@@ -1,0 +1,12 @@
+!!!NOTE!!!!
+Pastikan sudah melakukan npm install sebelum mengerjakan dan test apakah aplikasi sudah berjalan
+
+!!!NOTE!!!!
+Soal ini berkelanjutan 8-9
+
+1. Clone lagi Project pada soal 6 (blank project)
+2. Buatlah sebuah tampilan login (GOOD DESAIN = nilai tambah)
+3. Ketika login di klik saat username atau passowrd kosong maka akan memunculkan pesan error (Bebas mau pakai alert atau p)
+4. Tidak perlu menambahkan logic untuk  check username atau password
+
+Contoh flow bisa di lihat pada Soal-8-9.png

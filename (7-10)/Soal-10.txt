@@ -1,0 +1,12 @@
+1. !!!NOTE!!!!
+Pastikan sudah melakukan npm install sebelum mengerjakan dan test apakah aplikasi sudah berjalan
+
+
+1. Clone lagi Project pada soal 6 (blank project)
+2. Fetch api student pada link berikut http://ip/api_siswa
+3. Tampilkan selurh data siswa kedalam sebuah card seperti pada gambar Soal-10.png
+
+
+//Sama 50% nilai kalo bisa (Gak boleh pake AI)
+4. Buat button kelas untuk sorting misal kelas 4 maka yang muncul siswa kelas 4 saja
+5. Boleh kalo mau pakai drop down

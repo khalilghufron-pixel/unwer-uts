@@ -1,0 +1,9 @@
+1. Buatlah halaman Home 
+2. Setelah login sukses akan berpindah ke halaman Home
+3. Ambil Username dan password yang sudah dimasukan
+4. Tampilkan username dan password 
+
+5. Masukan project ke github kalian dan masukan link ke file Answer-(8-9).txt di folder Answer pada directory Answer(7-10)
+
+//Ini 50% nilai "kalo" bisa (gak boleh pake AI tapi kakakak)
+6. Buat agar ketika user ases /Home tanpa melakukan login maka akan terpental ke halaman login

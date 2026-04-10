@@ -19,6 +19,16 @@
 */
 
 
+const alas = 10;
+const tinggi = 5;
+
+const luassegitiga = (alas*tinggi) / 2;
+console.log("luas segitiga  dengan alas"+ alas + "dan tinggi" + tinggi + " adalah" + luassegitiga);
+
+
+ 
+  
+
 
 
 
